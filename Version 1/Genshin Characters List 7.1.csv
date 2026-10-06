@@ -1,0 +1,129 @@
+character_name,gender,model_type,rarity,region,element,weapon_type,constellation_name,birthday,special_dish,ascension_stat,date_released,release_version,tier_rating,primary_role
+Zibai,Female,Tall,5-star,Liyue,Geo,Sword,Equa Alba,May 15th,Flavor of Spring,CRIT DMG,2/3/26,6.3,SS,Main DPS
+Klee,Female,Short,5-star,Mondstadt,Pyro,Catalyst,Trifolium,July 27th,Fish-Flavored Toast,Pyro DMG Bonus,10/20/20,1,A,Main DPS
+Razor,Male,Medium,4-star,Mondstadt,Electro,Claymore,Lupus Minor,September 9th,Puppy-Paw Hash Brown,Physical DMG Bonus,9/28/20,1,B,Main DPS
+Tartaglia,Male,Tall,5-star,Snezhnaya,Hydro,Bow,Monoceros Caeli,July 20th,A Prize Catch,Hydro DMG Bonus,11/11/20,1.1,B,Main DPS
+Yae Miko,Female,Tall,5-star,Inazuma,Electro,Catalyst,Divina Vulpes,June 27th,Fukuuchi Udon,CRIT Rate,2/16/22,2.5,SS,Sub-DPS
+Chevreuse,Female,Medium,4-star,Fontaine,Pyro,Polearm,Sclopetum Ensiferum,January 10th,Sin: The Kind that Doesn't Need to be Dealt With,HP%,1/9/24,4.3,S,Support
+Barbara,Female,Medium,4-star,Mondstadt,Hydro,Catalyst,Crater,July 5th,Spicy Stew,HP%,9/28/20,1,C,Support
+Candace,Female,Tall,4-star,Sumeru,Hydro,Polearm,Sagitta Scutum,May 3rd,Utmost Care,HP%,9/28/22,3.1,C,Support
+Dahlia,Male,Medium,4-star,Mondstadt,Hydro,Sword,Cantus Choralis,May 25th,"""Chatter of Joyful Nights""",HP%,6/18/25,5.7,C,Support
+Dori,Female,Short,4-star,Sumeru,Electro,Claymore,Magicae Lucerna,December 21st,Show Me the Mora,HP%,9/9/22,3,C,Support
+Eula,Female,Tall,5-star,Mondstadt,Cryo,Claymore,Aphros Delos,October 25th,Stormcrest Pie,CRIT DMG,5/18/21,1.5,C,Main DPS
+Yumemizuki Mizuki,Female,Medium,5-star,Inazuma,Cryo,Catalyst,Tapirus Somniator,March 16th,Dreams of Healing,Elemental Mastery,2/12/25,5.4,S,Main DPS
+Shikanoin Heizou,Male,Medium,4-star,Inazuma,Anemo,Catalyst,Cervus Minor,July 24th,The Only Truth,Anemo DMG Bonus,7/13/22,2.8,D,Main DPS
+Layla,Female,Medium,4-star,Sumeru,Cryo,Sword,Luscinia,December 19th,Extravagant Slumber,HP%,11/18/22,3.2,A,Support
+Qiqi,Female,Short,5-star,Liyue,Cryo,Sword,Pristina Nola,March 3rd,No Tomorrow,Healing Bonus,9/28/20,1,S,Support
+Dehya,Female,Tall,5-star,Sumeru,Pyro,Claymore,Mantichora,April 7th,Goldflame Tajine,HP%,3/1/23,3.5,B,Support
+Sigewinne,Female,Short,5-star,Fontaine,Hydro,Bow,Nereides,March 30th,Well-Balanced Meal,HP%,6/25/24,4.7,B,Support
+Yanfei,Female,Medium,4-star,Liyue,Pyro,Catalyst,Bestia Iustitia,July 28th,"""My Way""",Pyro DMG Bonus,4/28/21,1.5,D,Main DPS
+Nilou,Female,Medium,5-star,Sumeru,Hydro,Sword,Lotos Somno,December 3rd,Swirling Steps,HP%,10/14/22,3.1,A,Sub-DPS
+Jahoda,Female,Medium,4-star,Nod-Krai,Anemo,Bow,Fragum,January 5th,"""After-Class Practice""",Healing Bonus,12/3/25,6.2,A,Sub-DPS
+Xinyan,Female,Medium,4-star,Liyue,Pyro,Claymore,Fila Ignium,October 16th,Rockin' Riffin' Chicken!,ATK%,12/1/20,1.1,D,Main DPS
+Jean,Female,Tall,5-star,Mondstadt,Anemo,Sword,Leo Minor,March 14th,Invigorating Pizza,Healing Bonus,9/28/20,1,A,Support
+Ningguang,Female,Tall,4-star,Liyue,Geo,Catalyst,Opus Aequilibrium,August 26th,Qiankun Mora Meat,Geo DMG Bonus,9/28/20,1,D,Main DPS
+Kachina,Female,Short,4-star,Natlan,Geo,Polearm,Ochotona Princeps,April 22nd,Impeccably Organized,Geo DMG Bonus,8/28/24,5,C,Sub-DPS
+Sayu,Female,Short,4-star,Inazuma,Anemo,Claymore,Nyctereutes Minor,October 19th,Dizziness-Be-Gone no Jutsu Version 2.0,Elemental Mastery,8/10/21,2,C,Sub-DPS
+Albedo,Male,Medium,5-star,Mondstadt,Geo,Sword,Princeps Cretaceus,September 13th,Woodland Dream,Geo DMG Bonus,12/23/20,1.2,A+,Sub-DPS
+Keqing,Female,Medium,5-star,Liyue,Electro,Sword,Trulla Cementarii,November 20th,Survival Grilled Fish,CRIT DMG,9/28/20,1,C,Main DPS
+Prune,Female,Short,4-star,Mondstadt (in-game) Nod-Krai (in lore),Anemo,Catalyst,Turris Venefica,November 20th,Spinning Special,ATK%,5/20/26,6.6,A+,Support
+Alyosha,Male,Medium,4-star,Snezhnaya,Electro,Polearm,Canis Borzoides,February 9th,The Bullseye Roast,Energy Recharge,8/12/26,7,S,Support
+Lohen,Male,Medium,5-star,Mondstadt,Cryo,Polearm,Lepus Miles,April 3rd,Boredom-Busting Bubblegum,CRIT DMG,6/9/26,6.6,A+,Main DPS
+Chongyun,Male,Medium,4-star,Liyue,Cryo,Claymore,Nubis Caesor,September 7th,Cold Noodles with Mountain Delicacies,ATK%,9/28/20,1,C,Sub-DPS
+Faruzan,Female,Medium,4-star,Sumeru,Anemo,Bow,Flosculi Implexi,August 20th,Traditionally-Made Charcoal-Baked Ajilenakh Cake,Energy Recharge,12/7/22,3.3,A,Support
+Mona,Female,Medium,5-star,Mondstadt,Hydro,Catalyst,Astrolabos,August 31st,Der Weisheit Letzter Schluss (Life),Energy Recharge,9/28/20,1,A+,Support
+Venti,Male,Medium,5-star,Mondstadt,Anemo,Bow,Carmen Dei,June 16th,A Buoyant Breeze,Energy Recharge,9/28/20,1,A+,Sub-DPS
+Arataki Itto,Male,Tall,5-star,Inazuma,Geo,Claymore,Taurus Iracundus,June 1st,Way of the Strong,CRIT Rate,12/14/21,2.3,C,Main DPS
+Kaveh,Male,Tall,4-star,Sumeru,Dendro,Claymore,Paradisaea,July 9th,The Endeavor,Elemental Mastery,5/2/23,3.6,D,Main DPS
+Ifa,Male,Tall,4-star,Natlan,Anemo,Catalyst,Catena Opele,March 23rd,Emotional Support,Elemental Mastery,5/7/25,5.6,C,Main DPS
+Lisa,Female,Tall,4-star,Mondstadt,Electro,Catalyst,Tempus Fugit,June 9th,Mysterious Bolognese,Elemental Mastery,9/28/20,1,C,Sub-DPS
+Yoimiya,Female,Medium,5-star,Inazuma,Pyro,Bow,Carassius Auratus,June 21st,Summer Festival Fish,CRIT Rate,8/10/21,2,C,Main DPS
+Sethos,Male,Medium,4-star,Sumeru,Electro,Bow,Basileos Delta,May 31st,Super-Dee-Duper Delicious Meat Roll,Elemental Mastery,6/5/24,4.7,C,Main DPS
+Lauma,Female,Tall,5-star,Nod-Krai,Dendro,Catalyst,Cerva Nivea,March 1st,Whisper in the Woods,Elemental Mastery,9/10/25,6,SS,Sub-DPS
+Gaming,Male,Medium,4-star,Liyue,Pyro,Claymore,Leo Expergiscens,December 22nd,Yummy Yum Cha,ATK%,1/31/24,4.4,B,Main DPS
+Nefer,Female,Tall,5-star,Nod-Krai (in-game) Sumeru (in lore),Dendro,Catalyst,Ludus Latrunculorum,May 9th,Secrets Exchanged,CRIT DMG,10/22/25,6.1,SS,Main DPS
+Kamisato Ayato,Male,Tall,5-star,Inazuma,Hydro,Sword,Cypressus Custos,March 26th,Quiet Elegance,CRIT DMG,3/30/22,2.6,C,Main DPS
+Citlali,Female,Medium,5-star,Natlan,Cryo,Catalyst,Patina Anavatlaca,January 20th,Secret Art,Elemental Mastery,1/1/25,5.3,SS,Support
+Ineffa,Female,Medium,5-star,Nod-Krai (in-game) Natlan (in lore),Electro,Polearm,Vanilla Planifolia,April 2nd,Thunderclap Slash!,CRIT Rate,7/30/25,5.8,SS,Sub-DPS
+Wanderer,Male,Medium,5-star,Sumeru (in-game) Snezhnaya (in lore) Inazuma (in lore),Anemo,Catalyst,Peregrinus,January 3rd,Shimi Chazuke,CRIT Rate,12/7/22,3.3,B,Main DPS
+Nahida,Female,Short,5-star,Sumeru,Dendro,Catalyst,Sapientia Oromasdis,October 27th,Halvamazd,Elemental Mastery,11/2/22,3.2,A+,Sub-DPS
+Yun Jin,Female,Medium,4-star,Liyue,Geo,Polearm,Opera Grandis,May 21st,Cloud-Shrouded Jade,Energy Recharge,1/5/22,2.4,B,Support
+Tighnari,Male,Medium,5-star,Sumeru,Dendro,Bow,Vulpes Zerda,December 29th,Forest Watcher's Choice,Dendro DMG Bonus,8/24/22,3,C,Main DPS
+Alhaitham,Male,Tall,5-star,Sumeru,Dendro,Sword,Vultur Volans,February 11th,Ideal Circumstance,Dendro DMG Bonus,1/18/23,3.4,B,Main DPS
+Noelle,Female,Medium,4-star,Mondstadt,Geo,Claymore,Parma Cordis,March 21st,Lighter-Than-Air Pancake,DEF,9/28/20,1,C,Main DPS
+Xilonen,Female,Tall,5-star,Natlan,Geo,Sword,Panthera Ocelota,March 13th,Fruit-Flavored Milk Candies,DEF,10/9/24,5.1,S,Support
+Mika,Male,Medium,4-star,Mondstadt,Cryo,Polearm,Palumbus,August 11th,Surveyor's Breakfast Sandwich,HP%,3/21/23,3.5,C,Support
+Aloy,Female,Medium,5-star,,Cryo,Bow,Nora Fortis,April 4th,Satiety Gel,Cryo DMG Bonus,9/1/21,2.1,D,Main DPS
+Flins,Male,Tall,5-star,Nod-Krai (in-game) Snezhnaya (in lore),Electro,Polearm,Laterna Vigilis,October 31st,Long Night Alight,CRIT DMG,9/30/25,6,SS,Main DPS
+Illuga,Male,Medium,4-star,Nod-Krai,Geo,Polearm,Oriolus,December 23rd,Nightwatch Soup,Elemental Mastery,2/3/26,6.3,A+,Support
+Linnea,Female,Medium,5-star,Nod-Krai (in-game) Snezhnaya (in lore),Geo,Bow,Alcyon,May 23rd,Iridescence Under the Tree's Shade,CRIT Rate,4/8/26,6.5,SS,Sub-DPS
+Sandrone,Female,Medium,5-star,Snezhnaya (in-game) Fontaine (in lore),Cryo,Claymore,Narcissorolegium,January 13th,Tea Party Polyphony,CRIT Rate,7/1/26,6.7,SS,Main DPS
+Kamisato Ayaka,Female,Medium,5-star,Inazuma,Cryo,Sword,Grus Nivis,September 28th,"""Snow on the Hearth""",CRIT DMG,7/21/21,2,B,Main DPS
+Escoffier,Female,Medium,5-star,Fontaine,Cryo,Polearm,Dulciaria Structura,June 8th,Gateau Debord: Magnifique,CRIT Rate,5/7/25,5.6,S,Sub-DPS
+Furina,Female,Medium,5-star,Fontaine,Hydro,Sword,Animula Choragi,October 13th,"""Pour la Justice""",CRIT Rate,11/8/23,4.2,S,Sub-DPS
+Kujou Sara,Female,Tall,4-star,Inazuma,Electro,Bow,Flabellum,July 14th,Faith Eternal,ATK%,9/1/21,2.1,B,Support
+Diluc,Male,Tall,5-star,Mondstadt,Pyro,Claymore,Noctua,April 30th,"""Once Upon a Time in Mondstadt""",CRIT Rate,9/28/20,1,C,Main DPS
+Thoma,Male,Tall,4-star,Inazuma (in-game) Mondstadt (in lore),Pyro,Polearm,Rubeum Scutum,January 9th,"""Warmth""",ATK%,11/2/21,2.2,B,Sub-DPS
+Clorinde,Female,Tall,5-star,Fontaine,Electro,Sword,Rapperia,September 20th,"""Tagged and Bagged""",CRIT Rate,6/5/24,4.7,B,Main DPS
+Lyney,Male,Medium,5-star,Fontaine,Pyro,Bow,Felis Fuscus,February 2nd,Cubic Tricks,CRIT Rate,8/16/23,4,B,Main DPS
+Kaedehara Kazuha,Male,Medium,5-star,Inazuma,Anemo,Sword,Acer Palmatum,October 29th,All-Weather Beauty,Elemental Mastery,6/29/21,1.6,A+,Support
+Xiao,Male,Medium,5-star,Liyue,Anemo,Polearm,Alatus Nemeseos,April 17th,"""Sweet Dream""",CRIT Rate,2/3/21,1.3,B,Main DPS
+Chasca,Female,Tall,5-star,Natlan,Anemo,Bow,Vultur Gryphus,December 10th,Moment of Respite,CRIT Rate,11/20/24,5.2,A+,Main DPS
+Mualani,Female,Medium,5-star,Natlan,Hydro,Catalyst,Phoca Neomonachus,August 3rd,Pass the Luck,CRIT Rate,8/28/24,5,A+,Main DPS
+Varesa,Female,Medium,5-star,Natlan,Pyro,Catalyst,Mascara Luctatori,November 15th,Mt. Mushroom (For One),CRIT Rate,3/26/25,5.5,A+,Main DPS
+Hu Tao,Female,Medium,5-star,Liyue,Pyro,Polearm,Papilio Charontis,July 15th,Ghostly March,CRIT DMG,3/2/21,1.3,B,Main DPS
+Sangonomiya Kokomi,Female,Medium,5-star,Inazuma,Hydro,Catalyst,Dracaena Somnolenta,February 22nd,A Stunning Stratagem,Hydro DMG Bonus,9/21/21,2.1,A,Support
+Cyno,Male,Medium,5-star,Sumeru,Electro,Polearm,Lupus Aureus,June 23rd,Duel Soul,CRIT DMG,9/28/22,3.1,SS,Main DPS
+Aino,Female,Short,4-star,Nod-Krai,Hydro,Claymore,Cistellula Mira,September 21st,Clink-Clank Confectionery Cup,Elemental Mastery,9/10/25,6,A,Sub-DPS
+Mavuika,Female,Tall,5-star,Natlan,Pyro,Claymore,Sol Invictus,August 28th,Hymn of Gathered Flame,CRIT DMG,1/1/25,5.3,SS,Main DPS
+Columbina,Female,Medium,5-star,Nod-Krai (in-game) Snezhnaya (in lore),Hydro,Catalyst,Columbina Hyposelenia,January 14th,Moonlit Mirage,CRIT Rate,1/14/26,6.3,SS,Sub-DPS
+Odette,Female,Medium,5-star,Snezhnaya,Cryo,Sword,Cygnus Olor,February 20th,Lakeside Snow Swan,CRIT DMG,8/12/26,7,SS,Sub-DPS
+Wriothesley,Male,Tall,5-star,Fontaine,Cryo,Catalyst,Cerberus,November 23rd,Secret Sauce BBQ Ribs,CRIT DMG,10/17/23,4.1,SS,Main DPS
+Ganyu,Female,Medium,5-star,Liyue,Cryo,Bow,Sinae Unicornis,December 2nd,Prosperous Peace,CRIT DMG,1/12/21,1.2,B,Sub-DPS
+Bennett,Male,Medium,4-star,Mondstadt (in-game) Natlan (in lore),Pyro,Sword,Rota Calamitas,February 29th,Teyvat Charred Egg,Energy Recharge,9/28/20,1,SS,Support
+Skirk,Female,Medium,5-star,,Cryo,Sword,Crystallina,November 5th,"""Abyssal Bounty""",CRIT DMG,6/18/25,5.7,S,Main DPS
+Varka,Male,Tall,5-star,Mondstadt,Anemo,Claymore,Lupus Majoris,February 17th,Hearty Indulgence,CRIT DMG,2/25/26,6.4,S,Main DPS
+Kaeya,Male,Tall,4-star,Mondstadt (in-game) Khaenri'ah (in lore),Cryo,Sword,Pavo Ocellus,November 30th,Fruity Skewers,Energy Recharge,9/28/20,1,B,Sub-DPS
+Kirara,Female,Medium,4-star,Inazuma,Dendro,Sword,Arcella,January 22nd,Energizing Bento,HP%,5/24/23,3.7,A,Support
+Beidou,Female,Tall,4-star,Liyue,Electro,Claymore,Victor Mare,February 14th,Flash-Fried Filet,Electro DMG Bonus,9/28/20,1,B,Sub-DPS
+Yelan,Female,Tall,5-star,Liyue,Hydro,Bow,Umbrabilis Orchis,April 20th,Dew-Dipped Shrimp,CRIT Rate,5/31/22,2.7,A+,Sub-DPS
+Shenhe,Female,Tall,5-star,Liyue,Cryo,Polearm,Crista Doloris,March 10th,Heartstring Noodles,ATK%,1/5/22,2.4,A+,Support
+Kuki Shinobu,Female,Medium,4-star,Inazuma,Electro,Sword,Tribulatio Demptio,July 27th,Omurice Waltz,HP%,6/21/22,2.7,A,Sub-DPS
+Navia,Female,Tall,5-star,Fontaine,Geo,Claymore,Rosa Multiflora,August 16th,"""Pick What You Like!""",CRIT DMG,12/20/23,4.3,B,Main DPS
+Emilie,Female,Medium,5-star,Fontaine,Dendro,Polearm,Pomum de Ambra,September 22nd,A Fragrant Feast of Flavors,CRIT DMG,8/6/24,4.8,A+,Sub-DPS
+Kinich,Male,Medium,5-star,Natlan,Dendro,Claymore,Chimaera Alebriius,November 11th,Saurian Hunter's Reward,CRIT DMG,9/17/24,5,A+,Main DPS
+Diona,Female,Short,4-star,Mondstadt,Cryo,Bow,Feles,January 18th,Definitely Not Bar Food!,Cryo DMG Bonus,11/11/20,1.1,A,Support
+Arlecchino,Female,Tall,5-star,Snezhnaya (in-game) Khaenri'ah (in lore) Fontaine (in lore),Pyro,Polearm,Ignis Purgatorius,August 22nd,Hearthfire's Trail,CRIT DMG,4/24/24,4.6,A,Main DPS
+Neuvillette,Male,Tall,5-star,Fontaine,Hydro,Catalyst,Leviathan Judicator,December 18th,"""Consommé Purete""",CRIT DMG,9/27/23,4.1,A,Main DPS
+Iansan,Female,Short,4-star,Natlan,Electro,Polearm,Carnotaurus,August 8th,Gold-Standard Healthy Meal,ATK%,3/26/25,5.5,SS,Support
+Fischl,Female,Medium,4-star,Mondstadt,Electro,Bow,Corvus,May 27th,Die Heilige Sinfonie,ATK%,9/28/20,1,S,Sub-DPS
+Amber,Female,Medium,4-star,Mondstadt,Pyro,Bow,Lepus,August 10th,Outrider's Champion Steak!,ATK%,9/28/20,1,D,Sub-DPS
+Freminet,Male,Medium,4-star,Fontaine,Cryo,Claymore,Automaton,September 24th,"""Seabird's Sojourn""",ATK%,9/5/23,4,D,Main DPS
+Xiangling,Female,Medium,4-star,Liyue,Pyro,Polearm,Trulla,November 2nd,Wanmin Restaurant's Boiled Fish,Elemental Mastery,9/28/20,1,A+,Sub-DPS
+Xingqiu,Male,Medium,4-star,Liyue,Hydro,Sword,Fabulae Textile,October 9th,All-Delicacy Parcels,ATK%,9/28/20,1,A+,Sub-DPS
+Collei,Female,Medium,4-star,Sumeru,Dendro,Bow,Leptailurus Cervarius,May 8th,Yearning,ATK%,8/24/22,3,B,Sub-DPS
+Lan Yan,Female,Medium,4-star,Liyue,Anemo,Catalyst,Hirundo Lazuli,January 6th,Jade-Cut Flowers,ATK%,1/21/25,5.3,A,Support
+Gorou,Male,Medium,4-star,Inazuma,Geo,Bow,Canis Bellatoris,May 18th,Victorious Legend,Geo DMG Bonus,12/14/21,2.3,A,Support
+Raiden Shogun,Female,Tall,5-star,Inazuma,Electro,Polearm,Imperatrix Umbrosa,June 26th,,Energy Recharge,9/1/21,2.1,A,Sub-DPS
+Durin,Male,Medium,5-star,Mondstadt (in-game) Simulanka (in lore),Pyro,Sword,Draco Rubedo,March 14th,Apple Stew (Trial Version),CRIT DMG,12/3/25,6.2,S,Sub-DPS
+Xianyun,Female,Tall,5-star,Liyue,Anemo,Catalyst,Grus Serena,April 11th,Encompassing Gladness,ATK%,1/31/24,4.4,A,Support
+Charlotte,Female,Medium,4-star,Fontaine,Cryo,Catalyst,Hualina Veritas,April 10th,Exclusive Scoop: Gourmet Column,ATK%,11/8/23,4.2,A,Support
+Baizhu,Male,Tall,5-star,Liyue,Dendro,Catalyst,Lagenaria,April 25th,Heat-Quelling Soup,HP%,5/2/23,3.6,A,Support
+Ororon,Male,Tall,4-star,Natlan,Electro,Bow,Vampyrum Spectrum,October 14th,Honey-Glazed Ceviche,ATK%,11/20/24,5.2,A,Sub-DPS
+Rosaria,Female,Tall,4-star,Mondstadt,Cryo,Polearm,Spinea Corona,January 24th,Dinner of Judgment,ATK%,4/6/21,1.4,A,Sub-DPS
+Wonderland Manekin,Unknown,Medium,5-star,,,Sword,,,,ATK%,10/22/25,6.1,Unranked,Main DPS
+Nicole,Female,Tall,5-star,Mondstadt,Pyro,Catalyst,Reliquiarium,September 29th,Gilded Chest,ATK%,5/20/26,6.6,SS,Support
+Vesna,Female,Medium,5-star,Snezhnaya,Anemo,Sword,Amentum Vernum,February 4th,Hoarfrost Soup,Crit Rate,9/23/26,7.1,Pending,Main DPS
+Vodyanitsa,Female,Medium,5-star,Snezhnaya,Hydro,Catalyst,Piscicula Aurea,March 29th,,HP%,9/23/26,7.1,Pending,Support
+Traveler (Anemo),Male/Female,Medium,5-star,Mondstadt,Anemo,Sword,Viator (male)Viatrix (female),Player's Choice,,ATK%,9/28/20,1,D,Sub-DPS
+Traveler (Geo),Male/Female,Medium,5-star,Liyue,Geo,Sword,Viator (male)Viatrix (female),Player's Choice,,ATK%,9/28/20,1,D,Sub-DPS
+Traveler (Hydro),Male/Female,Medium,5-star,Fontaine,Hydro,Sword,Viator (male)Viatrix (female),Player's Choice,,ATK%,9/28/20,1,D,Sub-DPS
+Traveler (Electro),Male/Female,Medium,5-star,Inazuma,Electro,Sword,Viator (male)Viatrix (female),Player's Choice,,ATK%,9/28/20,1,C,Support
+Traveler (Dendro),Male/Female,Medium,5-star,Sumeru,Dendro,Sword,Viator (male)Viatrix (female),Player's Choice,,ATK%,9/28/20,1,B,Sub-DPS
+Traveler (Pyro),Male/Female,Medium,5-star,Natlan,Pyro,Sword,Viator (male)Viatrix (female),Player's Choice,,ATK%,9/28/20,1,B,Sub-DPS
+Yaoyao,Female,Short,4-star,Liyue,Dendro,Polearm,Osmanthus,March 6th,Qingce Household Dish,HP%,1/18/23,3.4,A,Support
+Zhongli,Male,Tall,5-star,Liyue,Geo,Polearm,Lapis Dei,December 31st,Slow-Cooked Bamboo Shoot Soup,Geo DMG Bonus,12/1/20,1.1,A,Support
+Sucrose,Female,Medium,4-star,Mondstadt,Anemo,Catalyst,Ampulla,November 26th,Nutritious Meal (V.593),Anemo DMG Bonus,9/28/20,1,SS,Support
+Chiori,Female,Medium,5-star,Inazuma (in-game) Fontaine (in lore),Geo,Sword,Cisoria,August 17th,"""Fashion Show""",CRIT Rate,3/13/24,4.5,A,Sub-DPS
+Lynette,Female,Medium,4-star,Fontaine,Anemo,Sword,Felis Alba,February 2nd,A Leisurely Sip,Anemo DMG Bonus,8/16/23,4,B,Sub-DPS
+Traveler (Cryo),Male/Female,Medium,5-star,Snezhnaya,Cryo,Sword,Viator (male)Viatrix (female),Player's Choice,,ATK%,9/28/20,1,SS,Main DPS

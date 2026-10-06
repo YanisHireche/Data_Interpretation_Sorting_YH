@@ -1,0 +1,17 @@
+I have 5 files that separate the functions of the program.
+
+The data_loader.py file is where all other files source the data. it is called first
+to obtain and convert the data into a readable format by turning it into a list of dictionaries.
+
+The sort_file.py file is where I will be sorting and searching all the data in the file. The data
+will be obtained from data_loader.py.
+
+Character_analyze.py is where all data will be calculated and retrieved so people can read it.
+It will use sort file to find a character and use that to get the data from that requested character.
+
+
+quiz_game.py will be where I host the game where the user will be asked to guess a character from
+the data using clues obtained from character attributes.
+
+main.py is where all files are handled and directed. It will be where data_loader is called first
+and where all other files will source the data list outputted by data_loader.
