@@ -51,9 +51,11 @@ def main():
     characters = data_loader.read_file("genshin_character_list.csv")
 
     #print(characters[1][0])
-    #print(character_analyze.character_report("Vesna", characters))
-    #print(character_analyze.most_common_region(characters))
-    #print(character_analyze.character_rarity_check(characters))
+    print(character_analyze.character_report("Vesna", characters))
+    print('--')
+    print(character_analyze.most_common_region(characters))
+    print('--')
+    print(character_analyze.character_rarity_check(characters))
 
     #print(sort_file.new_csv_sorted("sorted_region_rarity.csv", characters))
 
@@ -61,7 +63,7 @@ def main():
 
     #print(sort_file.binary_search_character(characters, "Zhongli"))
 
-    user_inputs(characters)
+    #user_inputs(characters)
 
     #print(quiz_game.pick_random_character(characters))
     

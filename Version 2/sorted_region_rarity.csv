@@ -126,4 +126,3 @@ Tighnari,Male,Medium,5-star,Sumeru,Dendro,Bow,Vulpes Zerda,December 29th,Forest 
 Alhaitham,Male,Tall,5-star,Sumeru,Dendro,Sword,Vultur Volans,February 11th,Ideal Circumstance,Dendro DMG Bonus,1/18/23,3.4,B,Main DPS
 Cyno,Male,Medium,5-star,Sumeru,Electro,Polearm,Lupus Aureus,June 23rd,Duel Soul,CRIT DMG,9/28/22,3.1,SS,Main DPS
 Traveler (Dendro),Male/Female,Medium,5-star,Sumeru,Dendro,Sword,Viator (male)Viatrix (female),Player's Choice,,ATK%,9/28/20,1,B,Sub-DPS
-character_name,gender,model_type,rarity,region,element,weapon_type,constellation_name,birthday,special_dish,ascension_stat,date_released,release_version,tier_rating,primary_role

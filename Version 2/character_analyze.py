@@ -1,13 +1,13 @@
 # This python file will have all functions that analyze data
 import sort_file
 
-def header(characters:list):
+def header(characters: list[dict]):
 
-    return characters[0]
+    return list(characters[0].keys())
 
 
 
-def character_report(character_name: str, characters: list) -> str:
+def character_report(character_name: str, characters: list[dict]) -> str:
     """ This function will use sort_file.py to find the character and formats their information.
     
     Args:
@@ -30,7 +30,7 @@ def character_report(character_name: str, characters: list) -> str:
     # "Will return a string containing character data ex."
     return line
 
-def most_common_region(characters: list) -> list[str]:
+def most_common_region(characters: list[dict]) -> list[str]:
     """ This function will check all the characters and tally up which region is the most common
 
     Args:
@@ -43,10 +43,11 @@ def most_common_region(characters: list) -> list[str]:
     count_dict = {}
     common_regions = []
 
-    for row in characters[1:]:
-        if row[4] not in count_dict:
-            count_dict[row[4]] = 0
-        count_dict[row[4]] += 1
+    for row in characters:
+        region = row['region']
+        if region not in count_dict:
+            count_dict[region] = 0
+        count_dict[region] += 1
 
 
     pairs = []
@@ -74,12 +75,13 @@ def character_rarity_check(characters: list) -> str:
 
     """
     count_dict = {}
-    common_regions = []
 
-    for row in characters[1:]:
-        if row[3] not in count_dict:
-            count_dict[row[3]] = 0
-        count_dict[row[3]] += 1
+    for row in characters:
+        rarity = row['rarity']
+
+        if rarity not in count_dict:
+            count_dict[rarity] = 0
+        count_dict[rarity] += 1
 
 
     five_star = count_dict["5-star"]
@@ -87,4 +89,4 @@ def character_rarity_check(characters: list) -> str:
     
         
 
-    return f"There are {five_star} 5 stars and {four_star} 4 stars in the game. Together, there are {five_star + four_star} characters in the game!"
+    return f"There are {five_star} 5-stars and {four_star} 4-stars in the game. Together, there are {five_star + four_star} characters in the game!"

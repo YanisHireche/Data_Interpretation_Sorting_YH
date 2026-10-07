@@ -1,5 +1,7 @@
 # This function will be sorting the CSV file
 import csv
+from typing import Any
+
 
 def character_sort(characters: list[dict]) -> list:
     """ This function will turn the list of dictionaries into a list of lists and then sort it by region, then rarity.
@@ -13,11 +15,11 @@ def character_sort(characters: list[dict]) -> list:
     """
     sorted_characters = []
     for character in characters:
+        sorted_characters.append(list(character.values()))
 
+    print(sorted_characters[0])
 
-        pass
-
-    sorted_char = sorted(characters, key=lambda x: (x[4], x[3]))
+    sorted_char: list = sorted(sorted_characters, key=lambda x: (x[4], x[3]))
 
     return sorted_char
 
@@ -31,11 +33,15 @@ def alphabetical_sort(characters: list[dict]) -> list:
         Will return a list of each character now sorted by their names alphabetically.
 
     """
-    sorted_char = characters[:1] + sorted(characters[1:], key=lambda x: x[0])
+    sorted_characters = []
+    for character in characters:
+        sorted_characters.append(list(character.values()))
+
+    sorted_char = sorted(sorted_characters, key=lambda x: x[0])
 
     return sorted_char
 
-def linear_search_character(characters: list[dict], character_name: str) -> dict:
+def linear_search_character(characters: list[dict], character_name: str) -> list | None:
     """ This function will search for a specific character using linear search.
 
     Args:
@@ -47,11 +53,11 @@ def linear_search_character(characters: list[dict], character_name: str) -> dict
 
     """
 
-    for index in range(1, len(characters)):
-        if characters[index][0] == character_name:
-            return characters[index]
+    for index in range(0, len(characters)):
+        if characters[index]['character_name'] == character_name:
+            return list(characters[index].values())
 
-    return {}
+    return None
 
 
 def binary_search_character(characters: list[dict], character_name: str) -> dict | str:
